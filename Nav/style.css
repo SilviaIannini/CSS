@@ -1,0 +1,33 @@
+
+html{
+    background-color: black;
+    --basic-font-color: white
+}
+li{
+    display: inline-block;
+}
+
+span{
+    background-color: white;
+    color: #202024;
+}
+
+h1{
+    color:var(--basic-font-color) 
+}
+.primo{
+    color:var(--basic-font-color)
+}
+.secondo{
+    color: grey;
+}
+.terzo{
+    color: #3d3f3f 
+}
+.quarto{
+    color:#202024
+}
+button{
+    color:#35353b;
+    border : 5px
+}

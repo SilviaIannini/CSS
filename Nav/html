@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+   <nav>
+       <h1>Navbar</h1>
+        <ul>
+            
+            <li class="primo">Home</li>
+            <li class="secondo">Link</li>
+            <label for="Dropdown" class="terzo">Dropdown</label>
+            <select>
+                <option>a</option>
+                <option>b</option>
+            </select>
+            <li class="quarto">Disbabled</li>
+            <li><span>Cerca</span><form action="/action_page.php">
+                <input type="search">
+                <button>Cerca</button>
+              </form>
+              </li>
+        </ul>
+
+   </nav>
+</head>
